@@ -30,7 +30,7 @@ status:     Building & Learning
 focus:      [ System Design, DevOps, Scalable APIs ]
 learning:   [ Kubernetes, Cloud Architecture, Distributed Systems ]
 open_to:    [ DevOps Collaborations, Open Source ]
-fun_fact:   Powered by travel ✈️ and curiosiity 🔭
+fun_fact:   Powered by travel ✈️ and curiosity 🔭
 contact:    hoqradwan@gmail.com
 ```
 
